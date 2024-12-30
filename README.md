@@ -1,6 +1,6 @@
-[OUR PROJECT DETAILED PPT](https://www.canva.com/design/DAGawmI6FB4/Z-BLUGGfulOduIll7Biq7w/edit?utm_content=DAGawmI6FB4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+👀[OUR PROJECT DETAILED PPT](https://www.canva.com/design/DAGawmI6FB4/Z-BLUGGfulOduIll7Biq7w/edit?utm_content=DAGawmI6FB4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-[DEMO YOUTUBE LINK] (https://youtu.be/VNcsG_bDp2M?si=34DPLwxeSsGV7547)
+[DEMO YOUTUBE LINK] 📱 (https://youtu.be/VNcsG_bDp2M?si=34DPLwxeSsGV7547)
 
 
 ## 📰 News and Information Track - Website 
@@ -10,7 +10,7 @@ https://github.com/AASHISH-KUMAR-RA/News-Analysis
 ## News and Information Track - App 
 # Readky.
 
-## Introduction
+## Introduction 🌟
 
 Readky is a Free Flutter News App Starter Template that can help you develop a News application much faster. You just need to add some adjustment to the frontend and you can create your own backend.
 
@@ -20,7 +20,7 @@ Readky is a Free Flutter News App Starter Template that can help you develop a N
 <img src="https://github.com/AASHISH-KUMAR-RA/Kyn-Hackathon/blob/main/demo/details.jpg" width="auto" height="auto" >
 <img src="https://github.com/AASHISH-KUMAR-RA/Kyn-Hackathon/blob/main/demo/shot.jpg" width="auto" height="auto" >
 
-## Whats inside
+## Whats inside 📥️
 
 - Welcome Page
 - Login Page
@@ -36,7 +36,7 @@ Readky is a Free Flutter News App Starter Template that can help you develop a N
 - Search Page
 - Profile Page
 --------
-- News Tile Widget
+- News Tile Widget 🛠️
 - Featured News Card Widget
 - Breaking News Card Widget
 - Featured Video News Card Widget

@@ -1,4 +1,7 @@
-[PPT]()
+[OUR PROJECT DETAILED PPT](https://www.canva.com/design/DAGawmI6FB4/Z-BLUGGfulOduIll7Biq7w/edit?utm_content=DAGawmI6FB4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+[DEMO YOUTUBE LINK] (https://youtu.be/VNcsG_bDp2M?si=34DPLwxeSsGV7547)
+
 
 ## News and Information Track - Website 
 ## Look into this repository for our advanced News Analysis Website 

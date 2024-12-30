@@ -3,9 +3,9 @@
 [DEMO YOUTUBE LINK] 📱 (https://youtu.be/VNcsG_bDp2M?si=34DPLwxeSsGV7547)
 
 
-## 📰 News and Information Track - Website 
+## 📰 News and Information Track - Website 🏗
 ## Look into this repository for our advanced News Analysis Website 
-https://github.com/AASHISH-KUMAR-RA/News-Analysis
+💭💭   https://github.com/AASHISH-KUMAR-RA/News-Analysis  💭💭
 
 ## News and Information Track - App 
 # Readky.

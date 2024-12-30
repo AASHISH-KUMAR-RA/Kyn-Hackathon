@@ -1,3 +1,8 @@
+## News and Information Track - Website 
+## Look into this repository for our advanced News Analysis Website 
+https://github.com/AASHISH-KUMAR-RA/News-Analysis
+
+## News and Information Track - App 
 # Readky.
 
 ## Introduction
@@ -74,6 +79,8 @@ Iconly, icons that i used on this project, created by [Piqo Design](https://www.
 
 ## License
 Readky is under MIT License.
+
+
 
 ## Announcement
 
